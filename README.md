@@ -6,6 +6,12 @@ By Tristan van de Weg
 A simple library for control of a Joystick
 It can read out the coordinates of the joystick or it can be used for directions (Up, Down, Left, Right)
 
+* <a name="Downloading and Installing">Downloading and Installing</a>
+* <a name="Using">Using</a>
+
+Downloading and Installing
+--------------------------
+
 Using
 -----
 
