@@ -1,0 +1,11 @@
+Joystick	KEYWORD1
+
+readX	KEYWORD2
+readY	KEYWORD2
+readZ	KEYWORD2
+isUp	KEYWORD2
+isDown	KEYWORD2
+isLeft	KEYWORD2
+isRight	KEYWORD2
+
+toString	KEYWORD2
