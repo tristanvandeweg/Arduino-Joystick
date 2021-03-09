@@ -6,6 +6,16 @@ By Tristan van de Weg
 A simple library for control of a Joystick
 It can read out the coordinates of the joystick or it can be used for directions (Up, Down, Left, Right)
 
+* [Downloading and Installing](#downloading-and-installing)
+* [Using](#using)
+
+Downloading and Installing
+--------------------------
+
+To download the library as a .zip file click the green `Download Code` button and then click `Download ZIP`
+
+You can then install it by pressing the `Add .ZIP Library...` button located under `Sketch` `Include Library` in the arduino IDE
+
 Using
 -----
 
@@ -27,6 +37,6 @@ Use `ReadX()` and `ReadY()` to get the exact location of the stick in `float` fo
 Use `isUp()`, `isDown()`, `isLeft()` and `isRight()` to see if the stick is pointing in any of these directions, outputted in a `bool` format
 
 
-**Detecting cliks**
+**Detecting clicks**
 
 Use `ReadZ()` to see if the stick is beiing clicked in a `bool` format
