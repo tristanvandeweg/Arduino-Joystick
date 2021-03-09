@@ -12,7 +12,7 @@ It can read out the coordinates of the joystick or it can be used for directions
 Downloading and Installing
 --------------------------
 
-To download the library as a .zip file click the green `Download Code` button and then click `Download ZIP`
+To download the library as a .zip file click the ![](.img/downloadbutton.png?raw=true) button and then click `Download ZIP`
 
 You can then install it by pressing the `Add .ZIP Library...` button located under `Sketch` `Include Library` in the arduino IDE
 
